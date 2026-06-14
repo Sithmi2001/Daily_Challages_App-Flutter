@@ -37,4 +37,4 @@ A beautifully designed habit-building Flutter app that delivers a fresh challeng
 | confetti | Celebration effects |
 | percent_indicator | Progress bars |
 
-## 📁 Project Structure
+
