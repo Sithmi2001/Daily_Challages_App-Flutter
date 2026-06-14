@@ -1,16 +1,40 @@
-# daily_challenge_app
+# 🎯 Daily Challenge
 
-A new Flutter project.
+A beautifully designed habit-building Flutter app that delivers a fresh challenge every day across 6 categories. Complete challenges, earn XP, build streaks, and unlock achievements as you level up!
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+- **Daily Challenges** – A unique challenge every day, deterministic per calendar date
+- **6 Challenge Categories** – Creative, Physical, Social, Mindfulness, Learning, Adventure
+- **Streak System** – Build consistency by completing challenges day after day
+- **XP & Leveling** – Earn XP, level up (200 XP per level), and track progress
+- **Achievements** – Unlock 10+ badges for milestones and streaks
+- **Rich Statistics** – Category breakdown, total completions, and progress tracking
+- **Personal Notes** – Add reflections to each completed challenge
+- **Local Persistence** – All data stored locally with SharedPreferences
+- **Smooth Animations** – Confetti celebrations, pulse effects, and delightful transitions
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Screens
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+| Screen | Description |
+|--------|-------------|
+| Onboarding | Introduction to the app's core mechanics |
+| Home | Today's challenge, XP progress, streak, and more challenges |
+| Challenge Detail | Full challenge view with tips, note input, and completion |
+| History | Timeline of all completed challenges with notes |
+| Stats | Level progress, category breakdown, and achievements |
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+| Technology | Purpose |
+|------------|---------|
+| Flutter | UI framework |
+| Dart | Programming language |
+| Provider | State management |
+| SharedPreferences | Local data persistence |
+| Google Fonts | Typography (Outfit, Cormorant Garamond, Space Grotesk, JetBrains Mono) |
+| flutter_animate | Smooth animations |
+| confetti | Celebration effects |
+| percent_indicator | Progress bars |
+
+## 📁 Project Structure
