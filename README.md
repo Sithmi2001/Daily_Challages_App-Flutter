@@ -38,3 +38,6 @@ A beautifully designed habit-building Flutter app that delivers a fresh challeng
 | percent_indicator | Progress bars |
 
 
+
+https://github.com/user-attachments/assets/1aaa2416-d5c6-44b7-b52b-4d78d9c79cc5
+
